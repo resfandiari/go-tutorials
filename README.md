@@ -1,4 +1,4 @@
-# go-tutorials
+# Go Tutorials
 My journey to becoming a Go developer.
 
 ## Projects
